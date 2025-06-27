@@ -17,7 +17,9 @@ Cursor
 ### Package Manager
 UniGetUI
 ## Personalization
-
+### Desktop
+YASB
+https://github.com/amnweb/yasb
 ### Theme
 #### Cleodesktop
 ![pay] ![complex]
