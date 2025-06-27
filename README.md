@@ -14,7 +14,8 @@ my version for windows pc start up
 ## Productive
 ### IDE
 Cursor
-
+### Package Manager
+UniGetUI
 ## Personalization
 
 ### Theme
