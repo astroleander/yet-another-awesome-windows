@@ -21,6 +21,9 @@ Cursor
 #### YASB
 - release: https://github.com/amnweb/yasb
 #### Windhawk
+#### twinkletray
+Multiple Screen Lightness Adjuster
+https://twinkletray.com/
 ### Theme
 #### Cleodesktop
 - pros: ![pay] ![complex]
