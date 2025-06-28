@@ -1,15 +1,15 @@
-# yet-another-awesome-windows
-
-my version for windows pc start up
-
-[pay]
-[portable]
+[pay]: https://custom-icon-badges.demolab.com/badge/Not%20Free-red.svg?logo=dollar-sign&logoColor=white&logoSource=feather
 [fluented]
 [latest]
 [customisable]
 [complex]
 [opensource]
 [win11]
+
+# yet-another-awesome-windows
+
+my version for windows pc start up
+
 
 ## Productive
 ### IDE
@@ -19,12 +19,15 @@ Cursor
 ## Personalization
 ### Desktop
 #### YASB
-https://github.com/amnweb/yasb
+- release: https://github.com/amnweb/yasb
 #### Windhawk
 ### Theme
 #### Cleodesktop
-![pay] ![complex]
-https://cleodesktop.gumroad.com/
+- pros: ![pay] ![complex]
+  - Basic Windows Theme won't solve all you need, there is a hell of every 
+  
+- cons:
+- shop: https://cleodesktop.gumroad.com/
 
 ### Tweak
 ####
